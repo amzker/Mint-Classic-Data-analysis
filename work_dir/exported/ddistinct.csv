@@ -1,0 +1,24 @@
+productCode,productName,productLine,quantityInStock,warehouseCode
+S12_1666,"1958 Setra Bus","Trucks and Buses",1579,d
+S12_4473,"1957 Chevy Pickup","Trucks and Buses",6125,d
+S18_1097,"1940 Ford Pickup Truck","Trucks and Buses",2613,d
+S18_2319,"1964 Mercedes Tour Bus","Trucks and Buses",8258,d
+S18_2432,"1926 Ford Fire Engine","Trucks and Buses",2018,d
+S18_3029,"1999 Yamaha Speed Boat",Ships,4259,d
+S18_3259,"Collectable Wooden Train",Trains,6450,d
+S18_4600,"1940s Ford truck","Trucks and Buses",3128,d
+S24_2011,"18th century schooner",Ships,1898,d
+S24_2300,"1962 Volkswagen Microbus","Trucks and Buses",2327,d
+S32_1268,"1980’s GM Manhattan Express","Trucks and Buses",5099,d
+S32_2509,"1954 Greyhound Scenicruiser","Trucks and Buses",2874,d
+S32_3207,"1950's Chicago Surface Lines Streetcar",Trains,8601,d
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger","Trucks and Buses",814,d
+S50_1392,"Diamond T620 Semi-Skirted Tanker","Trucks and Buses",1016,d
+S50_1514,"1962 City of Detroit Streetcar",Trains,1645,d
+S700_1138,"The Schooner Bluenose",Ships,1897,d
+S700_1938,"The Mayflower",Ships,737,d
+S700_2047,"HMS Bounty",Ships,3501,d
+S700_2610,"The USS Constitution Ship",Ships,7083,d
+S700_3505,"The Titanic",Ships,1956,d
+S700_3962,"The Queen Mary",Ships,5088,d
+S72_3212,"Pont Yacht",Ships,414,d

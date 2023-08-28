@@ -1,0 +1,26 @@
+productCode,productName,productLine,quantityInStock,warehouseCode
+S10_1678,"1969 Harley Davidson Ultimate Chopper",Motorcycles,7140,a
+S10_2016,"1996 Moto Guzzi 1100i",Motorcycles,5963,a
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",Motorcycles,5582,a
+S12_2823,"2002 Suzuki XREO",Motorcycles,9997,a
+S18_1662,"1980s Black Hawk Helicopter",Planes,5330,a
+S18_2581,"P-51-D Mustang",Planes,2293,a
+S18_2625,"1936 Harley Davidson El Knucklehead",Motorcycles,3921,a
+S18_3782,"1957 Vespa GS150",Motorcycles,6920,a
+S24_1578,"1997 BMW R 1100 S",Motorcycles,6303,a
+S24_1785,"1928 British Royal Navy Airplane",Planes,3264,a
+S24_2000,"1960 BSA Gold Star DBD34",Motorcycles,2538,a
+S24_2360,"1982 Ducati 900 Monster",Motorcycles,1184,a
+S24_2841,"1900s Vintage Bi-Plane",Planes,5348,a
+S24_3949,"Corsair F4U ( Bird Cage)",Planes,6131,a
+S24_4278,"1900s Vintage Tri-Plane",Planes,2756,a
+S32_1374,"1997 BMW F650 ST",Motorcycles,178,a
+S32_2206,"1982 Ducati 996 R",Motorcycles,1133,a
+S32_4485,"1974 Ducati 350 Mk3 Desmo",Motorcycles,3007,a
+S50_4713,"2002 Yamaha YZR M1",Motorcycles,2480,a
+S700_1691,"American Airlines: B767-300",Planes,5257,a
+S700_2466,"America West Airlines B757-200",Planes,8688,a
+S700_2834,"ATA: B757-300",Planes,6395,a
+S700_3167,"F/A 18 Hornet 1/72",Planes,551,a
+S700_4002,"American Airlines: MD-11S",Planes,7938,a
+S72_1253,"Boeing X-32A JSF",Planes,1200,a
