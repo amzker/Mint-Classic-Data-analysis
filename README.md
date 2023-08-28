@@ -1,7 +1,7 @@
 # Mint-Classic-Data-analysis
 ## Data Analytics Project of coursera
 
-[Live-Report](https://docs.google.com/document/d/1j8eecRUBcN4NMuiBIorK1sW9E-IlQy77GxDl8cTzdT0/edit?usp=sharing)
+Live Report [![Live-Report](https://github.com/amzker/Mint-Classic-Data-analysis/blob/2791c4f142e42c594b6aa00d8bcafbfdc74cde55/images/docs.png)](https://docs.google.com/document/d/1j8eecRUBcN4NMuiBIorK1sW9E-IlQy77GxDl8cTzdT0/edit?usp=sharing)
 
 
 # Abbreviations and custom metrics
@@ -63,11 +63,12 @@ Yes , you can , i have done exploratory data analysis on given dataset and here 
 
 
 
-1. We are heavily overstocked [Overstock Products](https://docs.google.com/document/d/1j8eecRUBcN4NMuiBIorK1sW9E-IlQy77GxDl8cTzdT0/edit#heading=h.c02562tyi8e)
+1. We are heavily overstocked [![overstock products](https://github.com/amzker/Mint-Classic-Data-analysis/blob/2791c4f142e42c594b6aa00d8bcafbfdc74cde55/images/docs.png)](https://docs.google.com/document/d/1j8eecRUBcN4NMuiBIorK1sW9E-IlQy77GxDl8cTzdT0/edit#heading=h.c02562tyi8e)
+
 2. We have 1 non moving asset ( Toyota supra , 7.6k units , 0 sold )
 3. We also have lot of slow moving assets 
 
-    [TOP 20 least profitable products](https://docs.google.com/document/d/1j8eecRUBcN4NMuiBIorK1sW9E-IlQy77GxDl8cTzdT0/edit#heading=h.e6osm1sl7bn7)
+   Click [![TOP 20 least profitable products](https://github.com/amzker/Mint-Classic-Data-analysis/blob/2791c4f142e42c594b6aa00d8bcafbfdc74cde55/images/docs.png)](https://docs.google.com/document/d/1j8eecRUBcN4NMuiBIorK1sW9E-IlQy77GxDl8cTzdT0/edit#heading=h.e6osm1sl7bn7)
 
 
 **Which warehouse to close?**
@@ -159,8 +160,9 @@ GROUP BY p.productLine
 ```
 
 
-**Products in Each Warehouse:** [sheet](https://docs.google.com/spreadsheets/d/11syGk5Adqoefm12b1G9derCVJiY6Xw9vwPaLrroHQ4w/edit#gid=1204989991)
+**Products in Each Warehouse:** sheet [![sheet](https://github.com/amzker/Mint-Classic-Data-analysis/blob/2791c4f142e42c594b6aa00d8bcafbfdc74cde55/images/sheet.png
+)](https://docs.google.com/spreadsheets/d/11syGk5Adqoefm12b1G9derCVJiY6Xw9vwPaLrroHQ4w/edit#gid=1204989991)
 
 **How to close warehouse?**
 
-I have adjusted Products in Stock , increased understocked products and decreased overstocked products setting SO near 0.8 for understock and 0.4 for overstock products. [Here are steps](https://docs.google.com/document/d/1j8eecRUBcN4NMuiBIorK1sW9E-IlQy77GxDl8cTzdT0/edit#heading=h.frvr1fy9omtx)
+I have adjusted Products in Stock , increased understocked products and decreased overstocked products setting SO near 0.8 for understock and 0.4 for overstock products. Here are steps [![Here are steps](https://github.com/amzker/Mint-Classic-Data-analysis/blob/2791c4f142e42c594b6aa00d8bcafbfdc74cde55/images/docs.png)](https://docs.google.com/document/d/1j8eecRUBcN4NMuiBIorK1sW9E-IlQy77GxDl8cTzdT0/edit#heading=h.frvr1fy9omtx)
